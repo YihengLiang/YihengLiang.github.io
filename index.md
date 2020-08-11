@@ -1,5 +1,3 @@
-:grinning:
-
 An enthusiastic and humble fast-learner with an international academic background. The desire to solve problems prompts me to investigate deeper scientific problems. Possessing prior knowledge on the science of environment and geology, I’m applying for the PhD candidate.
 
 ## EDUCATION
