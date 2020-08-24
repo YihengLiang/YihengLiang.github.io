@@ -25,7 +25,7 @@ Shandong University (SDU)
 
 _2019.01-Present Qingdao_
 
-My research direction is the nitrogen-containing organic matters (e.g., nitrated phenols) in the ambient aerosol, including the sources, size-distribution, and secondary formation process. During my research in SDU, I fulfilled my research highly-independently throughout the process of sampling, measurement, data analysis, and drafting under the supervision of my supervisor. To understand the chemical and size-resolved characteristics and further the secondary formation processes of nitrated phenols in a coastal area in North China, we conducted a field observation in early 2019 in Qingdao. Currently, my research result has been published on Chemosphere. Besides, I supervised undergraduate students on their graduation projects.
+My research direction is the nitrogen-containing organic matters (e.g., nitrated phenols) in the ambient aerosol, including the sources, size-distribution, and secondary formation process. During my research in SDU, I fulfilled my research highly-independently throughout the process of sampling, measurement, data analysis, and drafting under the supervision of my supervisor. To understand the chemical and size-resolved characteristics and further the secondary formation processes of nitrated phenols in a coastal area in North China, we conducted a field observation in early 2019 in Qingdao. Currently, my research result has been published on _Chemosphere_. Besides, I supervised undergraduate students on their graduation projects.
 - Contact: Dr. Xinfeng Wang – xinfengwang@sdu.edu.cn
 
 ## EXPERIENCE & SKILLS
@@ -60,5 +60,5 @@ Field observation of size-resolved particle in Qingdao, 2019.
 - English (Oral+Writing)
 
 ## PUBLICATIONS
-- **Liang, Y.**, et al. (2020). Size distributions of nitrated phenols in winter at a coastal site in North China and the impacts from primary sources and secondary formation. Chemosphere, 250, 126256. doi: 10.1016/j.chemosphere.2020.126256
-- Lu, C., ..., **Liang, Y.**, et al. (2019). Emissions of fine particulate nitrated phenols from various on-road vehicles in China. Environmental Research, 179, 108709. doi: 10.1016/j.envres.2019.108709
+- **Liang, Y.**, et al. (2020). Size distributions of nitrated phenols in winter at a coastal site in North China and the impacts from primary sources and secondary formation. _Chemosphere_, 250, 126256. doi: 10.1016/j.chemosphere.2020.126256
+- Lu, C., ..., **Liang, Y.**, et al. (2019). Emissions of fine particulate nitrated phenols from various on-road vehicles in China. _Environmental Research_, 179, 108709. doi: 10.1016/j.envres.2019.108709
